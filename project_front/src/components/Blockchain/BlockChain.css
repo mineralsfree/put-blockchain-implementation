@@ -1,0 +1,45 @@
+.blockchain-container {
+    display: flex;
+}
+
+.transaction-form-container {
+    width: 30%;
+}
+
+.blockchain-chain {
+    margin-top: 50px;
+    width: 40%;
+}
+
+.transaction-form {
+    padding: 50px;
+}
+
+.transaction-form-field {
+    margin-bottom: 20px !important;
+}
+
+.block-container {
+
+}
+
+.transaction-details {
+    max-width: 300px;
+    overflow-wrap: break-word;
+    padding: 16px;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+
+.block-details {
+    width: 500px;
+    overflow-wrap: break-word;
+
+}
+
+.block-content {
+    display: flex;
+}
+.card-block{
+    margin-bottom: 25px;
+}
